@@ -1,2 +1,2 @@
 # TestScript-Amazon-Nav
-This test script is basic demonstration to check the functionality of Amazon's website navigation and search bar.
+This test script is a basic demonstration to check the functionality of Amazon shopping website's navigation and search bar.
